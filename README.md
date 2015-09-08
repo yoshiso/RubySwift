@@ -9,6 +9,18 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+## Extensions
+
+## String ##
+
+#### Instance Methods ####
+
+Name | Signature
+---- | ---------
+**`count`**|`count () -> Int`
+**`size`**|`size () -> Int`
+
+
 ## Requirements
 
 ## Installation
