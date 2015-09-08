@@ -1,0 +1,20 @@
+PODS:
+  - Nimble (1.0.0)
+  - Quick (0.3.1)
+  - RubySwift (0.1.0)
+
+DEPENDENCIES:
+  - Nimble
+  - Quick (~> 0.3.1)
+  - RubySwift (from `../`)
+
+EXTERNAL SOURCES:
+  RubySwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Nimble: 8bee528e5fcc403653076545db562d2b5db7bb87
+  Quick: 824572d3d198d51e52cf4aa722cebf7e59952a35
+  RubySwift: 91ff5e1db2dad2ff93ccc2ed4490c514df76185f
+
+COCOAPODS: 0.39.0.beta.4
